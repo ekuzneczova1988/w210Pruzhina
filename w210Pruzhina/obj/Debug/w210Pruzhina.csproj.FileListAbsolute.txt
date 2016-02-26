@@ -1,0 +1,8 @@
+D:\Projects\w210Pruzhina\w210Pruzhina\bin\Debug\w210Pruzhina.exe
+D:\Projects\w210Pruzhina\w210Pruzhina\bin\Debug\w210Pruzhina.pdb
+D:\Projects\w210Pruzhina\w210Pruzhina\obj\Debug\w210Pruzhina.csprojResolveAssemblyReference.cache
+D:\Projects\w210Pruzhina\w210Pruzhina\obj\Debug\w210Pruzhina.Properties.Resources.resources
+D:\Projects\w210Pruzhina\w210Pruzhina\obj\Debug\w210Pruzhina.csproj.GenerateResource.Cache
+D:\Projects\w210Pruzhina\w210Pruzhina\obj\Debug\w210Pruzhina.exe
+D:\Projects\w210Pruzhina\w210Pruzhina\obj\Debug\w210Pruzhina.pdb
+D:\Projects\w210Pruzhina\w210Pruzhina\obj\Debug\w210Pruzhina.FormMain.resources
